@@ -2,6 +2,52 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOLRTZMs5rrumf",
+      "title": "added role in signup",
+      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/12",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-04-04T10:09:54Z",
+      "number": 12,
+      "changedFiles": 10,
+      "additions": 261,
+      "deletions": 69,
+      "baseRepository": {
+        "name": "rentalpropertyfrontend",
+        "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKoxtV85rjgWz",
+      "title": "added property admin panel",
+      "url": "https://github.com/Rahulkush1/RentalPropertyApi/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-03T11:37:45Z",
+      "number": 22,
+      "changedFiles": 10,
+      "additions": 105,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "RentalPropertyApi",
+        "url": "https://github.com/Rahulkush1/RentalPropertyApi",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOKoxtV85rUdpC",
       "title": "Registeration",
       "url": "https://github.com/Rahulkush1/RentalPropertyApi/pull/21",
@@ -977,7 +1023,7 @@
       }
     }
   ],
-  "merged": 39,
-  "open": 0,
-  "totalCount": 39
+  "merged": 40,
+  "open": 1,
+  "totalCount": 41
 }
