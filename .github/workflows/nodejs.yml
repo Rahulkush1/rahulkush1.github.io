@@ -18,26 +18,14 @@ jobs:
 
     strategy:
       matrix:
-          node: [ 14, 16, 18, 20 ]
-    name: Node ${{ matrix.node }} sample
+        node-version: [20.x]
+
     steps:
     - uses: actions/checkout@v4
-      name: Setup node
-    # - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v4
       with:
-        node-version: ${{ matrix.node }}
+        node-version: ${{ matrix.node-version }}
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
-
-    # strategy:
-    #   matrix:
-    #     node: [ 14, 16, 18 ]
-    # name: Node ${{ matrix.node }} sample
-    # steps:
-    #   - uses: actions/checkout@v4
-    #   - name: Setup node
-    #     uses: actions/setup-node@v4
-    #     with:
-    #       node-version: ${{ matrix.node }}
