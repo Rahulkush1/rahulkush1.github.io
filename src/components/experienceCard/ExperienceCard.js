@@ -103,12 +103,26 @@ class ExperienceCard extends Component {
               <div
                 style={{
                   display: "flex",
+                  flexDirection: "column",
                   justifyContent: "flex-start",
                   marginTop: 20,
+                  // textAlign: 'justify'
                 }}
               >
                 <div className="repo-description" />
-                {experience["description"]}
+                {/* {experience["description"]} */}
+                <ul
+                  style={{
+                    color: theme.text,
+                    listStyleType: "none",
+                    padding: "1px",
+                  }}
+                >
+                  {experience.descriptions.map((sentence) => {
+                    return <li style={{ marginBottom: "5px" }}>{sentence}</li>;
+                  })}
+                </ul>
+                {/* {console.log(experience.descriptions)} */}
               </div>
             </div>
           </div>

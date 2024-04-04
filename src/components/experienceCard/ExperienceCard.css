@@ -88,14 +88,14 @@
 }
 
 .experience-card {
-  min-width: 350px;
+  min-width: 10vmax;
   /* height: 170px; */
   margin-bottom: 20px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
   padding: 10px;
-  margin-left: 10px;
+  /* margin-left: 20px; */
   -webkit-box-shadow: 4px 3px 20px -2px grey;
   -moz-box-shadow: 4px 3px 20px -2px grey;
   box-shadow: 4px 3px 20px -2px grey;
@@ -134,18 +134,16 @@
   display: flex;
   flex-direction: row;
 }
-.experience-card-logo-div {
+
+.experience-card-logo {
+  /* margin-top: 1.5rem;
   width: 100px;
-  /* width: 10vmax;
-  height: 05vmax;
+  height: 100px;
   -webkit-box-shadow: 4px 3px 20px -2px grey;
   -moz-box-shadow: 4px 3px 20px -2px grey;
   box-shadow: 4px 3px 20px -2px grey;
   border-radius: 50px; */
-}
 
-.experience-card-logo {
-  margin-top: 1.5rem;
   width: 100px;
   height: 100px;
   -webkit-box-shadow: 4px 3px 20px -2px grey;

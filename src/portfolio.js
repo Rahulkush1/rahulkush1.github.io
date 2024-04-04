@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -25,7 +25,8 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink: "https://rahulkushwaha-resume.tiiny.site/",
-  portfolio_repository: "https://github.com/rahulkush1/masterPortfolio",
+  portfolio_repository:
+    "https://github.com/rahulkush1/rahulkush1.github.io/tree/gh-pages",
   githubProfile: "https://github.com/rahulkush1",
 };
 
@@ -539,8 +540,14 @@ const experience = {
           logo_path: "witmates.png",
           duration: "Aug 2023 - Present",
           location: "Indore, MP, INDIA",
-          description:
-            "Developed and maintained backend systems for web applications using Ruby on Rails framework . Designed and implemented RESTful APIs to facilitate communication between frontend and backend components. Managed relational databases including PostgreSQL, optimizing schema design and query performance.Implemented secure authentication and authorization mechanisms using Devise and JWT. Practiced Test-Driven Development (TDD) by writing comprehensive unit tests and integration tests with RSpec. Collaborated with cross-functional teams in Agile environments, participating in sprint planning and daily stand-ups",
+          descriptions: [
+            "⚡ Developed and maintained backend systems for web applications using Ruby on Rails framework.",
+            "⚡ Designed and implemented RESTful APIs to facilitate communication between frontend and backend components.",
+            "⚡ Managed relational databases including PostgreSQL, optimizing schema design and query performance.",
+            "⚡ Implemented secure authentication and authorization mechanisms using Devise and JWT.",
+            "⚡ Practiced Test-Driven Development (TDD) by writing comprehensive unit tests and integration tests with RSpec.",
+            "⚡ Collaborated with cross-functional teams in Agile environments, participating in sprint planning and daily stand-ups.",
+          ],
           color: "#000000",
         },
         // {
@@ -588,6 +595,14 @@ const experience = {
           logo_path: "letsgrow.png",
           duration: "Apirl 2022 - May 2022",
           location: "Work From Home",
+          descriptions: [
+            "⚡ LetsGrowMore, is a ground based organisation which aims at building the future through nourishing the present",
+            "⚡ Gain hands-on experience developing web applications using React.js.",
+            "⚡ Learn best practices for front-end development and modern web technologies.",
+            "⚡ Explore the React.js ecosystem and integrate third-party libraries and frameworks.",
+            "⚡ Troubleshoot and debug issues to improve application performance and functionality.",
+            "⚡ Built Calculator Using React Js and  have Learnt Basic Git operations/commands..",
+          ],
           description:
             "LetsGrowMore, is a ground based organisation which aims at building the future through nourishing the present. Performed number of projects on ReactJS and API data fetching using ReactJS. Built Calculator Using React Js. i have Learnt Basic Git operations/commands.",
           color: "#0071C5",
