@@ -5,8 +5,12 @@
       "id": "PR_kwDOLRTZMs5rrumf",
       "title": "added role in signup",
       "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/12",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
       "createdAt": "2024-04-04T10:09:54Z",
       "number": 12,
       "changedFiles": 10,
@@ -1023,7 +1027,7 @@
       }
     }
   ],
-  "merged": 40,
-  "open": 1,
+  "merged": 41,
+  "open": 0,
   "totalCount": 41
 }

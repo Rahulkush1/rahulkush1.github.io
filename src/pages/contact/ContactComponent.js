@@ -67,6 +67,21 @@ class Contact extends Component {
                 >
                   {blogSection["subtitle"]}
                 </p>
+                <div
+                  className="badge-base LI-profile-badge "
+                  data-locale="en_US"
+                  data-size="medium"
+                  data-theme="light"
+                  data-type="HORIZONTAL"
+                  data-vanity="rahulkushwaha19"
+                  data-version="v1"
+                >
+                  <a
+                    class="badge-base__link LI-simple-link"
+                    href="https://in.linkedin.com/in/rahulkushwaha19?trk=profile-badge"
+                  ></a>
+                </div>
+
                 <div className="blogsite-btn-div">
                   <Button
                     text="Visit My Profile"

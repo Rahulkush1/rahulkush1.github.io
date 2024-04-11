@@ -127,6 +127,10 @@
   margin-top: 0;
 }
 
+.LI-profile-badge {
+  margin-left: 15vmax;
+}
+
 @media (max-width: 1380px) {
   .contact-heading-text {
     font-size: 50px;
@@ -136,6 +140,9 @@
   .blog-heading-text {
     font-size: 50px;
     margin-top: 40px;
+  }
+  .LI-profile-badge {
+    margin-left: 6.5vmax;
   }
 }
 
@@ -190,5 +197,9 @@
     margin-right: 0px;
     line-height: normal;
     text-align: center;
+  }
+
+  .LI-profile-badge {
+    margin-left: 5vmax;
   }
 }
