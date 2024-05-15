@@ -49,13 +49,17 @@
       ]
     },
     {
-      "id": "R_kgDOLRTZMg",
-      "name": "rentalpropertyfrontend",
-      "createdAt": "2024-02-12T13:31:33Z",
-      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+      "id": "R_kgDOL2Nc8w",
+      "name": "MERN-RentalProperty",
+      "createdAt": "2024-05-02T13:19:39Z",
+      "url": "https://github.com/Rahulkush1/MERN-RentalProperty",
       "description": null,
       "isFork": false,
       "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -63,10 +67,6 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
         }
       ]
     },

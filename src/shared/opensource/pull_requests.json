@@ -1,6 +1,598 @@
 {
-  "closed": 0,
+  "closed": 1,
   "data": [
+    {
+      "id": "PR_kwDOL2Nc885vZwu7",
+      "title": "Frontend",
+      "url": "https://github.com/Rahulkush1/MERN-RentalProperty/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-14T13:35:27Z",
+      "number": 5,
+      "changedFiles": 18,
+      "additions": 290,
+      "deletions": 57,
+      "baseRepository": {
+        "name": "MERN-RentalProperty",
+        "url": "https://github.com/Rahulkush1/MERN-RentalProperty",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL2Nc885vZoHI",
+      "title": "added appoinment show all api",
+      "url": "https://github.com/Rahulkush1/MERN-RentalProperty/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-14T13:20:02Z",
+      "number": 4,
+      "changedFiles": 9,
+      "additions": 116,
+      "deletions": 47,
+      "baseRepository": {
+        "name": "MERN-RentalProperty",
+        "url": "https://github.com/Rahulkush1/MERN-RentalProperty",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL2Nc885u_fXx",
+      "title": "added create appointment api",
+      "url": "https://github.com/Rahulkush1/MERN-RentalProperty/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-09T13:33:40Z",
+      "number": 3,
+      "changedFiles": 5,
+      "additions": 122,
+      "deletions": 59,
+      "baseRepository": {
+        "name": "MERN-RentalProperty",
+        "url": "https://github.com/Rahulkush1/MERN-RentalProperty",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL2Nc885u4lhU",
+      "title": "added review api",
+      "url": "https://github.com/Rahulkush1/MERN-RentalProperty/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-08T13:51:15Z",
+      "number": 2,
+      "changedFiles": 8,
+      "additions": 111,
+      "deletions": 121,
+      "baseRepository": {
+        "name": "MERN-RentalProperty",
+        "url": "https://github.com/Rahulkush1/MERN-RentalProperty",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL2Nc885uvzGK",
+      "title": "added feature property api",
+      "url": "https://github.com/Rahulkush1/MERN-RentalProperty/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-07T10:57:14Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 23,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "MERN-RentalProperty",
+        "url": "https://github.com/Rahulkush1/MERN-RentalProperty",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85uW7b3",
+      "title": "made changes for getAllProperties",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-02T13:13:51Z",
+      "number": 9,
+      "changedFiles": 6,
+      "additions": 98,
+      "deletions": 46,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85uQNUz",
+      "title": "added update profile and password api",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-01T13:45:21Z",
+      "number": 8,
+      "changedFiles": 3,
+      "additions": 69,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLRTZMs5uOe2i",
+      "title": "added css",
+      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-05-01T06:58:55Z",
+      "number": 18,
+      "changedFiles": 5,
+      "additions": 10,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "rentalpropertyfrontend",
+        "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85uJUhu",
+      "title": "added forgot password api",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-30T13:31:43Z",
+      "number": 7,
+      "changedFiles": 6,
+      "additions": 294,
+      "deletions": 55,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85uAw2N",
+      "title": "added sendemail method",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-29T13:08:46Z",
+      "number": 6,
+      "changedFiles": 3,
+      "additions": 36,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85t10Uf",
+      "title": "added appointment apis",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-26T13:03:53Z",
+      "number": 5,
+      "changedFiles": 4,
+      "additions": 137,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85tuX9_",
+      "title": "added appointment model and controller",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-25T13:19:36Z",
+      "number": 4,
+      "changedFiles": 5,
+      "additions": 156,
+      "deletions": 61,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85tuC17",
+      "title": "added property apis and review apis",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-25T12:33:04Z",
+      "number": 3,
+      "changedFiles": 9,
+      "additions": 444,
+      "deletions": 79,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85tmpNc",
+      "title": "added api for property controller",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-24T13:29:59Z",
+      "number": 2,
+      "changedFiles": 16,
+      "additions": 1122,
+      "deletions": 108,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyB9Q85tjZt5",
+      "title": "added models and controllers",
+      "url": "https://github.com/Rahulkush1/RentalProperty-MERN/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-24T05:31:09Z",
+      "number": 1,
+      "changedFiles": 16,
+      "additions": 677,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "RentalProperty-MERN",
+        "url": "https://github.com/Rahulkush1/RentalProperty-MERN",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDODqGIis5tWluY",
+      "title": "Fixed Experience page responsive",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/357",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-04-22T13:42:17Z",
+      "number": 357,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLRTZMs5tWiZV",
+      "title": "modified login and signup page ui",
+      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-22T13:35:53Z",
+      "number": 17,
+      "changedFiles": 9,
+      "additions": 323,
+      "deletions": 737,
+      "baseRepository": {
+        "name": "rentalpropertyfrontend",
+        "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLRTZMs5tLE-W",
+      "title": "responsice code",
+      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-19T13:21:01Z",
+      "number": 16,
+      "changedFiles": 7,
+      "additions": 149,
+      "deletions": 143,
+      "baseRepository": {
+        "name": "rentalpropertyfrontend",
+        "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLRTZMs5tK-F7",
+      "title": "Responsive changes",
+      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-19T13:13:15Z",
+      "number": 15,
+      "changedFiles": 32,
+      "additions": 1052,
+      "deletions": 121,
+      "baseRepository": {
+        "name": "rentalpropertyfrontend",
+        "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLRTZMs5tDbZ-",
+      "title": "Responsive changes",
+      "url": "https://github.com/Rahulkush1/rentalpropertyfrontend/pull/14",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-04-18T13:48:09Z",
+      "number": 14,
+      "changedFiles": 44,
+      "additions": 3092,
+      "deletions": 255,
+      "baseRepository": {
+        "name": "rentalpropertyfrontend",
+        "url": "https://github.com/Rahulkush1/rentalpropertyfrontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJUI-s85tAlXz",
+      "title": "modified packahe.json file",
+      "url": "https://github.com/Rahulkush1/Foodie-Online-Food-Ordering-Website/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-18T07:00:46Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Foodie-Online-Food-Ordering-Website",
+        "url": "https://github.com/Rahulkush1/Foodie-Online-Food-Ordering-Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDODqGIis5s69lS",
+      "title": "fixed experience card for mobile device",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/355",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+        "url": "https://github.com/ashutosh1919",
+        "login": "ashutosh1919"
+      },
+      "createdAt": "2024-04-17T13:06:28Z",
+      "number": 355,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJUI-s85s63cW",
+      "title": "added License",
+      "url": "https://github.com/Rahulkush1/Foodie-Online-Food-Ordering-Website/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-17T12:54:04Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Foodie-Online-Food-Ordering-Website",
+        "url": "https://github.com/Rahulkush1/Foodie-Online-Food-Ordering-Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKoxtV85szrfH",
+      "title": "remove commented code",
+      "url": "https://github.com/Rahulkush1/RentalPropertyApi/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+        "url": "https://github.com/Rahulkush1",
+        "login": "Rahulkush1"
+      },
+      "createdAt": "2024-04-16T13:47:40Z",
+      "number": 24,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "RentalPropertyApi",
+        "url": "https://github.com/Rahulkush1/RentalPropertyApi",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=ed30c9a81b7be8636e693df1d1fd20eaf8a0836e&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
     {
       "id": "PR_kwDOKoxtV85srYcQ",
       "title": "update changes in properties controller",
@@ -1202,7 +1794,7 @@
       }
     }
   ],
-  "merged": 48,
-  "open": 0,
-  "totalCount": 48
+  "merged": 70,
+  "open": 1,
+  "totalCount": 72
 }

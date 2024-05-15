@@ -411,6 +411,25 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Career Essentials in GitHub Professional Certificate",
+      subtitle: "- Linkedin or Github",
+      logo_path: "Github.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/83065f4657caeb501ecb0993f493a108258af13374cb274eb11c1af2ec063b8f",
+      alt_name: "LinkedIn",
+      color_code: "#D83B0199",
+    },
+    {
+      title:
+        "Learning Full-Stack JavaScript Development: MongoDB, Node, and React",
+      subtitle: "- Linkedin",
+      logo_path: "fullStack.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/aaebde8e101e39391f3d8670e36b1406919f4695735e09293e9faddcfabc5b4e",
+      alt_name: "LinkedIn",
+      color_code: "#D83B0199",
+    },
+    {
       title: "Software Engineer - IT Services",
       subtitle: "- Amcat",
       logo_path: "amcat-certificate.png",
